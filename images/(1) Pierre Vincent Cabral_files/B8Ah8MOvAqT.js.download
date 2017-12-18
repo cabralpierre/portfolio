@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["vPJkt"]); }
+
+__d("FacebookWebNotificationsSubscriptionWebGraphQLSubscription",["WebGraphQLSubscriptionHelper"],(function a(b,c,d,e,f,g){"use strict";f.exports=c("WebGraphQLSubscriptionHelper").getExports({docID:"1808307892526853",queryID:"763628783837259"})}),null);
